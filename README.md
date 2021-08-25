@@ -6,3 +6,7 @@ Used supervised machine learning techniques, cleaned and visualised the dataset 
 
 donload data.Csv file from the below link..copy in the same folder where u downloaded the files.
 https://1drv.ms/u/s!AsUuHjkI9mnsgYdbAKVLPBBDoAuSDA?e=chybbi
+
+PREVIEW_---
+
+![](GUI-output.png)
